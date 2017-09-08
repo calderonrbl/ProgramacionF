@@ -1,0 +1,24 @@
+                              Manual de comandos
+			      
+cd                inicio
+ls                listado
+ls -al            carpetas
+pwd               mostrar carpetas en la que andas
+clear             limpiar todo
+cat               lo que esta en la nota
+ctrl c            retroceder
+ctrl x, ctrl s    guardar
+ctrl x, ctrl c    salir
+echo              repite la ultima linea comando
+echo >>           para repetir dos veces
+history           historial de comandos
+mkdir             crear carpeta
+cp                copiar carpeta
+ls -a             mostrar ultimas carpetas
+cp -R             copiar carpeta con archivos
+rm                mas el nombre del archivo para eliminar
+rm*               eliminar todo
+ctrl g            abortar comando
+ctrl x, 1         quedarte con la pantalla del cajón, (cuando hay 2 pantallas)
+exit              salir de la terminal
+     
